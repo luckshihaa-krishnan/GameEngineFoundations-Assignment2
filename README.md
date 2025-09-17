@@ -26,7 +26,7 @@ The operations I implemented are:
 
 
 ### Example output from your test program
-When the application is run, the output should be:
+When the application runs, the output should be:
   1) Terminal opens which shows:
       - Vector 'a', 'b', and 'c'
       - Sum and difference of vector 'a' and 'b', by using addition and subtraction
