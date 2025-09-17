@@ -18,8 +18,8 @@ OpenTK.Windowing.Common is used to manage the window.
 
 ### Which operations did you implement
 The operations I implemented are:
-  - Addition and Subtraction, between two vectors
-  - Dot and Cross product, between two vectors
+  - Addition and Subtraction, using two vectors
+  - Dot and Cross product, using two vectors
   - Normalization for a specific vector
   - Scale, Translation and Rotation matrix, for the shape
   - Quaternion to rotate the shape
