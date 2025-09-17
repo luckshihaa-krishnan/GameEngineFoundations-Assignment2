@@ -7,9 +7,12 @@ The libraries I used are:
   - using OpenTK.Mathematics
   - using OpenTK.Windowing.Common
 
-OpenTK.Windowing.Desktop is used to make sure that when the application runs, an OpenTK window opens to display the graphics.
+OpenTK.Windowing.Desktop is used to make sure that when the application runs, an OpenTK window opens to display the graphics. 
+
 OpenTK.Graphics.OpenGL is used to make sure that 2D and 3D graphics are displayed in the OpenTK window.
+
 OpenTK.Mathematics is used to handle all mathematical calculation in the application. This including using the dot and cross product and the movement of the objects.
+
 OpenTK.Windowing.Common is used to manage the Window
 
 ### Which operations did you implement
