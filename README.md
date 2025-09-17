@@ -29,9 +29,9 @@ The operations I implemented are:
 When the application runs, the output should be:
   1) Terminal opens which shows:
       - Vector 'a', 'b', and 'c'
-      - Sum and difference of vector 'a' and 'b', by using addition and subtraction
+      - Sum and difference of vector 'a' and 'b' using vector 'c', by using addition and subtraction
       - Product of vector 'a' and 'b' by using the Dot and Cross product
-      - Normalization value using vector 'a' and 'b'
+      - Normalization value using vector 'a'
   2) OpenTK Window opens which shows:
       - Purple color background
       - Yellow rectangle rotating on Y axis. It will rotate from big to small. 
