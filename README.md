@@ -15,6 +15,7 @@ OpenTK.Mathematics is used to handle all mathematical calculation in the applica
 
 OpenTK.Windowing.Common is used to manage the Window
 
+
 ### Which operations did you implement
 The operations I implemented are:
   - Addition and Subtraction, between two vectors
@@ -22,6 +23,7 @@ The operations I implemented are:
   - Normalization for a specific vector
   - Scale, Translation and Rotation matrix, for the shape
   - Quaternion to rotate the shape
+
 
 ### Example output from your test program
 When the application is run, the output should be:
