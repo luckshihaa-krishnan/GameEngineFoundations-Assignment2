@@ -13,7 +13,7 @@ OpenTK.Graphics.OpenGL is used to make sure that 2D and 3D graphics are displaye
 
 OpenTK.Mathematics is used to handle all mathematical calculations in the application. This including using the dot and cross product and the movement of the objects.
 
-OpenTK.Windowing.Common is used to manage the Window
+OpenTK.Windowing.Common is used to manage the window.
 
 
 ### Which operations did you implement
